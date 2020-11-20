@@ -14,4 +14,4 @@
 9.      limiteInferior <-- limiteInferior + 1
 10.  Fin Mientras
 11.  Escribir "La suma final es: " + suma
-12.  Inicio
+12.  Fin
