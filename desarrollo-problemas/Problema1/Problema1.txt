@@ -17,7 +17,7 @@
 5. cadenaFinal, x(200)[{1-9},{a-z},{A-Z}, {/}] <-- ""
 6. Mientras numerador <= 6 entonces
 7.     Si (numerador MOD 2) == 0 entonces
-8.         cadenaFinal <-- cadenaFinal + contador + "/" denominador_Par "\n"
+8.         cadenaFinal <-- cadenaFinal + numerador + "/" denominador_Par "\n"
 9.         denominador_Par <-- denominador_Par + 1
 10.     De lo contrario
 11.         cadenaFinal <-- cadenaFinal + contador + "/" + denominador_Impar + "\n"

@@ -13,7 +13,7 @@
 3. nombre, x(200)[{1-9},{a-z},{A-Z},{BS}]
 4. cadenaFinal, x(200)[{1-9},{a-z},{A-Z},{BS}] <-- ""
 5. promedioCiclo, d[0,n]
-6. estadoReporte, d[0,n]
+6. estadoReporte, x(200)[{1-9},{a-z},{A-Z},{BS}]
 7. Mientras contador <= 4 entonces
 8.     Escribir "Ingrese el nombre del estudiante"
 9.     Lea nombre
